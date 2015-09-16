@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說一切功德莊嚴王經
+#+DATE: 2015-08-30 20:36:08.472347
+#+PROPERTY: JUAN 0
